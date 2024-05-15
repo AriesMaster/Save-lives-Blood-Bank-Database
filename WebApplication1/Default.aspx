@@ -29,6 +29,7 @@
 
 
     <div class="row">
+        <h1>Queries</h1>
     <style>
         .jumbotron {
             background: linear-gradient(135deg, #0a0a0a, #333333);
