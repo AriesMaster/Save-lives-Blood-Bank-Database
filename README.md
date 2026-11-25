@@ -1,5 +1,9 @@
 **Read Me: Save Lives Blood Bank Database Project**
 
+## Explore the implementation
+
+This school project models a regional blood bank and includes an ASP.NET Web Forms solution and SQL source. Start with the [Visual Studio solution](WebApplication1.sln) and [database script](WebApplication1/App_Data/SQLQuery2.sql) to inspect how the web application and schema are organized. Review the project configuration and database script before attempting a local setup.
+
 Welcome to the Save Lives Blood Bank Database Project! This project aims to streamline the operations of a regional blood bank located in Midrand, Gauteng, by implementing a robust database system. This Read Me document provides an overview of the project structure, objectives, functionalities, and instructions for setup and usage.
 
 ### Project Overview:
